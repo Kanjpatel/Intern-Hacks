@@ -1,2 +1,2 @@
 ﻿# Intern-Hacks
-# A website that helps students find hackathons, internships and connect to their peers
+# A website that helps students find hackathons, team members and internships.
